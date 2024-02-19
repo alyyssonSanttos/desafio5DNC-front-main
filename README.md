@@ -5,7 +5,7 @@ Projeto em React com API simples em Node.
 ## GitHub => https://github.com/alyyssonSanttos/desafio5DNC-front-main
 
 <div align="center">
-  <img src="https://github.com/alyyssonSanttos/desafio5DNC-front-main/assets/125829817/a5803afc-275e-476b-be91-1a2287bf0db6" width="700">
+  <img src="https://github.com/alyyssonSanttos/desafio5DNC-front-main/assets/125829817/a5803afc-275e-476b-be91-1a2287bf0db6" width="400">
 </div>
 
 <div align="center">
