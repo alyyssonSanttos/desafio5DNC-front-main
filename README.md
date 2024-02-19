@@ -4,6 +4,14 @@ Projeto em React com API simples em Node.
 ## Site => https://biblioteca-desafio5.netlify.app
 ## GitHub => https://github.com/alyyssonSanttos/desafio5DNC-front-main
 
+<div align="center">
+  <img src="https://github.com/alyyssonSanttos/desafio5DNC-front-main/assets/125829817/a5803afc-275e-476b-be91-1a2287bf0db6" width="700">
+</div>
+
+<div align="center">
+  <img src="https://github.com/alyyssonSanttos/desafio5DNC-front-main/assets/125829817/b822626b-abe2-48a5-b03a-fb8322c68025" width="700">
+</div>
+
 Uma interface utilizando React router.
 
 - "Nosso projeto de uma API de livros. Com uma interface amigável e atrativa, o site permite aos usuários organizar livros, ano de lançamento, popularidade e muito mais.
