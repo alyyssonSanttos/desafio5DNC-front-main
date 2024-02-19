@@ -2,7 +2,7 @@
 Projeto em React com API simples em Node.
 
 ## Site => https://biblioteca-desafio5.netlify.app
-## Site => https://github.com/alyyssonSanttos/desafio5DNC-front-main
+## GitHub => https://github.com/alyyssonSanttos/desafio5DNC-front-main
 
 Uma interface utilizando React router.
 
